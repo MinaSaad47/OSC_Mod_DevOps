@@ -13,17 +13,17 @@
 
 > # Group 1
 
-|[Kurbenates (K8s)]()|[Terraform]()|
+|[Kurbenates (K8s)](https://github.com/MinaSaad47/OSC_Mod_DevOps#kurbenates)|[Terraform](https://github.com/MinaSaad47/OSC_Mod_DevOps#Terraform)|
 |----------------|---------|
 |Ahmed Yasser    |Aly Ahmed|
 |Ahmed Ayman     |Mina Saad|
 
 > # Group 2
 
-|[Git]()|[Ansible]()|[Maven]()|
+|[Git](https://github.com/MinaSaad47/OSC_Mod_DevOps#git-)|[Ansible](https://github.com/MinaSaad47/OSC_Mod_DevOps#ansible)|[Maven](https://github.com/MinaSaad47/OSC_Mod_DevOps#maven)|
 |-------|-----------|---------|
 |Thoraiia|Mostafa_AboElhareth|Mostafa Abu El Nour|
-|        |KirloS M  |
+|        |KirloS M  |                            |
 
 
 ## **Kurbenates**
