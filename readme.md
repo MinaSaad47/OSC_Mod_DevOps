@@ -10,6 +10,7 @@
 * [Continuous Testing](https://www.youtube.com/watch?v=RYQbmjLgubM&list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj&index=9)
 * [Value Stream Management](https://www.youtube.com/watch?v=Yto8nUeki-s&list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj&index=10)
 * [Application Modernization](https://www.youtube.com/watch?v=RJ3UQSxwGFY&list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj&index=11)
+* [Cloud Native Apps](https://www.youtube.com/watch?v=9Ik96SBaIvs&list=PL7bmigfV0EqQ_rPUq3TrJfa0MZ-bfUenn&index=2) <!-- VMware Cloud Native Apps -->
 
 > # Group 1
 
@@ -26,7 +27,11 @@
 |        |KirloS M  |                            |
 
 
-## **Kurbenates**
+## **Kurbernates**
+
+* [**Container and Kurbernates**](https://www.youtube.com/watch?v=gFozhTXOx18&list=PL7bmigfV0EqQ_rPUq3TrJfa0MZ-bfUenn&index=1) <!-- VMware Cloud Native Apps -->
+* [**Overview**](https://www.youtube.com/watch?v=PH-2FfFD2PU) <!-- VMware Cloud Native Apps -->
+
 
 ## **Terraform**
 
