@@ -14,7 +14,7 @@
 
 > # Group 1
 
-|[Kurbenates (K8s)](https://github.com/MinaSaad47/OSC_Mod_DevOps#kurbenates)|[Terraform](https://github.com/MinaSaad47/OSC_Mod_DevOps#Terraform)|
+|[Kurbernates (K8s)](https://github.com/MinaSaad47/OSC_Mod_DevOps#Kurbernates)|[Terraform](https://github.com/MinaSaad47/OSC_Mod_DevOps#Terraform)|
 |----------------|---------|
 |Ahmed Yasser    |Aly Ahmed|
 |Ahmed Ayman     |Mina Saad|
