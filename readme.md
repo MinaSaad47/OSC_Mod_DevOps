@@ -38,7 +38,7 @@
 * **What is Terraform**
    *  [Terraform Explained](https://www.youtube.com/watch?v=HmxkYNv1ksg&list=PLOspHqNVtKAAm1dmyiR9WMmw1UBoOwZVj&index=18) <!-- IBM Cloud -->
    *  [Introduction to HashiCorp Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) <!-- HashiCorp -->
-*
+* [**Get Started**](https://learn.hashicorp.com/terraform)
 
 ## **Git** <!-- edureka! -->
 
