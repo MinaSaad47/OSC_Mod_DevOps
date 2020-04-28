@@ -49,8 +49,12 @@
 * **Git-repository hosting service**
   * GitHub
   * GitLab
+* Extra
+  * [Markdown files](https://www.youtube.com/watch?v=HUBNt18RFbo) <!-- Traversy Media -->
 
 ## **Ansible**
+  * [**Overview**](https://www.ansible.com/resources/get-started) <!-- Red Hat -->
+  * [**What is Ansible**](https://www.youtube.com/watch?v=St__HLMZ8qQ) <!-- Red Hat -->
 
 ## **Maven**
 
