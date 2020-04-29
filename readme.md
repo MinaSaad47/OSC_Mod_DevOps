@@ -26,6 +26,14 @@
 |Thoraiia|Mostafa_AboElhareth|Mostafa Abu El Nour|
 |        |KirloS M  |                            |
 
+> # Group 3
+
+|[Docker](https://github.com/MinaSaad47/OSC_Mod_DevOps#Docker) / [Jenkins](https://github.com/MinaSaad47/OSC_Mod_DevOps#Jenkins)|[AWS](https://github.com/MinaSaad47/OSC_Mod_DevOps#AWS)|
+|------------------------|-------|
+|Ahmed Tawfik            |Martina Gerges|
+|Ebraam                  |David         |
+|                        |Yousef Fakhry |
+
 
 ## **Kurbernates**
 
@@ -57,5 +65,20 @@
   * [**What is Ansible**](https://www.youtube.com/watch?v=St__HLMZ8qQ) <!-- Red Hat -->
 
 ## **Maven**
+
+
+## **Docker**
+  * [Documentation](https://docs.docker.com/)
+  * What is Docker
+    * [Introduction](https://youtu.be/wi-MGFhrad0)
+
+
+## **AWS**
+  * [Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+  * [What is AWS](https://youtu.be/EUFOW6a-_24)
+
+## **Jenkins**
+  * [Documentation](https://jenkins.io/doc/)
+  * [What is Jenkins](https://youtu.be/yz3tyeA3Fe0)
 
 
