@@ -48,10 +48,8 @@
 
 ## **Git**
 
-* [**Version Control**](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=100s)
-* [**Centralized Version Control VS Distributed Version Control**](https://www.youtube.com/watch?v=GJQ36pIYbic&list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX&index=2&t=1287s)
-* [**What is Git**](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=1535s)
-* [**Git Operations**](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2664s)
+* [Version Control With Git](https://bit.ly/3cie9Si): (Udacity Course: 9 hrs)
+* [GitHub & Collaboration](https://bit.ly/3ev0usx): (Udacity Course: 6 hrs)
 * **Git-repository hosting service**
     * GitHub
     * GitLab
