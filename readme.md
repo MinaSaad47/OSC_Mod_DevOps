@@ -50,6 +50,18 @@
 
 * [Version Control With Git](https://bit.ly/3cie9Si): (Udacity Course: 9 hrs)
 * [GitHub & Collaboration](https://bit.ly/3ev0usx): (Udacity Course: 6 hrs)
+
+<br>
+###### VsCode Extensions for Git, Github & Others:
+
+* [GitHub Pull Requests and Issues](https://bit.ly/2XjQcFY)
+* [Git Extension Pack](https://bit.ly/3ch2Aeg):<span class="colour" style="color:rgb(212, 212, 212)">This extension pack packages some of the most popular (and some of my favorite) Git extensions.</span>
+* [Git Graph](https://bit.ly/2ZTDgYY)<span class="colour" style="color: rgb(204, 204, 204);">: </span>View a Git Graph of your repository, and perform Git actions from the graph.
+* [Settings Sync](https://bit.ly/2MevPUj): backup & sync your VsCode settings & extensions
+* [vscode-icons](https://bit.ly/3cki3Kg)
+* [Markdown Live](https://bit.ly/2Xa8N7t)<span class="colour" style="color:rgb(255, 255, 255)">: Real-time markdown Editor & Viewer (WYSIWYG)</span>
+
+<br>
 * **Git-repository hosting service**
     * GitHub
     * GitLab
