@@ -55,7 +55,7 @@
 
 * [GitHub Pull Requests and Issues](https://bit.ly/2XjQcFY)
 * [Git Extension Pack](https://bit.ly/3ch2Aeg):<span class="colour" style="color:rgb(212, 212, 212)">This extension pack packages some of the most popular (and some of my favorite) Git extensions.</span>
-* [Git Graph](https://bit.ly/2ZTDgYY)<span class="colour" style="color: rgb(204, 204, 204);">: </span>View a Git Graph of your repository, and perform Git actions from the graph.
+* [Git Graph](https://bit.ly/2ZTDgYY)<span class="colour" style="color:rgb(204, 204, 204)">: </span>View a Git Graph of your repository, and perform Git actions from the graph.
 * [Settings Sync](https://bit.ly/2MevPUj): backup & sync your VsCode settings & extensions
 * [vscode-icons](https://bit.ly/3cki3Kg)
 * [Markdown Live](https://bit.ly/2Xa8N7t)<span class="colour" style="color:rgb(255, 255, 255)">: Real-time markdown Editor & Viewer (WYSIWYG)</span>
@@ -64,6 +64,11 @@
 
 * [crash course](https://bit.ly/2yNtUD2): (20 min youtube video that goes through markdown syntax)
 * WYSIWYG: What You See Is What You Get
+
+###### [Awesome browser extensions for GitHub](https://bit.ly/2ZSJXKZ) : (A curated list of awesome browser extensions for GitHub)
+
+* File Icon for GitHub and GitLab
+* Octotree
 
 <br>
 * **Git-repository hosting service**
