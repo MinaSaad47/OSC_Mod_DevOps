@@ -48,6 +48,10 @@
 
 ## **Git**
 
+![git_ready](https://trello-attachments.s3.amazonaws.com/5e19c2ab754e29708141eac0/5eb89a358b4c4d19da2bc5c5/62a3f046783e674c64b980e6bbbd826e/image.png)
+
+> **Supercharge Your Workflow** 💪🏻💪🏻
+
 * [Version Control With Git](https://bit.ly/3cie9Si): (Udacity Course: 9 hrs)
 * [GitHub & Collaboration](https://bit.ly/3ev0usx): (Udacity Course: 6 hrs)
 
@@ -71,10 +75,11 @@
 * Octotree
 
 ###### Others:
+
 * [Create useful .gitignore files for your project](https://bit.ly/2XjcUOH)
 * [choose a license](https://bit.ly/3djpNxL)
-* [Challenges for learning Git & Github](https://bit.ly/3cqN53z)	
-* Github Vs GitLab	
+* [Challenges for learning Git & Github](https://bit.ly/3cqN53z)
+* Github Vs GitLab
 
 ## **Ansible**
 
