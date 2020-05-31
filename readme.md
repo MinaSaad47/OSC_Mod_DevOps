@@ -70,10 +70,11 @@
 * File Icon for GitHub and GitLab
 * Octotree
 
-<br>
-* **Git-repository hosting service**
-    * GitHub
-    * GitLab
+###### Others:
+* [Create useful .gitignore files for your project](https://bit.ly/2XjcUOH)
+* [choose a license](https://bit.ly/3djpNxL)
+* [Challenges for learning Git & Github](https://bit.ly/3cqN53z)	
+* Github Vs GitLab	
 
 ## **Ansible**
 
