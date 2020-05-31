@@ -51,7 +51,6 @@
 * [Version Control With Git](https://bit.ly/3cie9Si): (Udacity Course: 9 hrs)
 * [GitHub & Collaboration](https://bit.ly/3ev0usx): (Udacity Course: 6 hrs)
 
-<br>
 ###### VsCode Extensions for Git, Github & Others:
 
 * [GitHub Pull Requests and Issues](https://bit.ly/2XjQcFY)
@@ -61,12 +60,15 @@
 * [vscode-icons](https://bit.ly/3cki3Kg)
 * [Markdown Live](https://bit.ly/2Xa8N7t)<span class="colour" style="color:rgb(255, 255, 255)">: Real-time markdown Editor & Viewer (WYSIWYG)</span>
 
+##### Markdown:
+
+* [crash course](https://bit.ly/2yNtUD2): (20 min youtube video that goes through markdown syntax)
+* WYSIWYG: What You See Is What You Get
+
 <br>
 * **Git-repository hosting service**
     * GitHub
     * GitLab
-* Extra
-    * [Markdown files](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ## **Ansible**
 
